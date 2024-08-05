@@ -12,5 +12,8 @@ This repository contains snippets of test code for [EchoDiffNet] used to demonst
 Configure the relevant YAML files before testing. Pre-trained model parameters can be downloaded [here](https://drive.google.com/file/d/1BiNgFQNvO8n4_RZGusPzk4qksGiGQgX6/view?usp=drive_link).
 
 To run the test script:
+```
 pip install -r requirements.txt
 python test.py
+```
+
