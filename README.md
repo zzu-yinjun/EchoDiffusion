@@ -9,7 +9,7 @@ This repository contains snippets of test code for [EchoDiffNet] used to demonst
 
 ## Evaluation
 
-Configure the relevant YAML files before testing. Pre-trained model parameters can be downloaded [here](https://drive.google.com/file/d/1BiNgFQNvO8n4_RZGusPzk4qksGiGQgX6/view?usp=drive_link).
+Configure the relevant YAML files before testing. Pre-trained model parameters can be downloaded [here](https://drive.google.com/file/d/15MLo6jRcxtDE-xNHwRy5lpVAwz1pBCAY/view?usp=drive_link).
 
 To run the test script:
 ```
