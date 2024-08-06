@@ -4,8 +4,8 @@ This repository contains snippets of test code for [EchoDiffNet] used to demonst
 
 ## Dataset
 
-* **Replica-Dataset:** Available from the [Replica](https://github.com/facebookresearch/VisualEchoes) repository. We used the 128x128 image resolution for our experiments.
-* **Matterport-Dataset:** An extension of the existing [Matterport3D](https://niessner.github.io/Matterport/) dataset. To obtain the raw frames, please request access from the Matterport3D authors. We will soon release the procedure for generating frames and echoes using Habitat-sim and SoundSpaces.
+* **Replica-Dataset:** Available from the [Replica](https://github.com/facebookresearch/VisualEchoes) repository. 
+* **Matterport-Dataset:** An extension of the existing [Matterport3D](https://niessner.github.io/Matterport/) dataset.
 
 ## Evaluation
 
