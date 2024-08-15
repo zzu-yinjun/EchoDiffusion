@@ -1,6 +1,6 @@
 # EchoDiffNet: Echo-Based Depth Estimation with Wave Conditioned Diffusion Models
 
-This repository contains snippets of test code for [EchoDiffNet] used to demonstrate and validate the methods described in the paper. While the full research code is not released to protect project integrity and sensitive information, we provide this test code to verify the model's accuracy.
+This repository contains snippets of test code for [EchoDiffusion] used to demonstrate and validate the methods described in the paper. While the full research code is not released to protect project integrity and sensitive information, we provide this test code to verify the model's accuracy.
 
 ## Dataset
 
